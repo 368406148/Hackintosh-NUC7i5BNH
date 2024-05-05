@@ -1,7 +1,7 @@
 # Intel NUC7i5BNH
 **OpenCore Hackintosh EFI File. Built for NUC7i5BNH. Supports Ventura. Maybe the best EFI for NUC7i5BNH on GitHub.**
 
-## ***Use it on your risk***
+## ***Use it on your risk!***
 **Only tested on macOS 13.5.2**
 
 ## Specs

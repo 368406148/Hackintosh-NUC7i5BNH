@@ -1,6 +1,9 @@
 # Intel NUC7i5BNH
 **OpenCore Hackintosh EFI File. Built for NUC7i5BNH. Supports Ventura. Maybe the best EFI for NUC7i5BNH on GitHub.**
 
+## ***Use it on your risk***
+**Only tested on macOS 13.5.2**
+
 ## Specs
 Processor: [Intel(R) Core(R) i5-7260U @ 2.2GHz (3.4GHz MAX)](https://www.intel.com/content/www/us/en/products/sku/97539/intel-core-i57260u-processor-4m-cache-up-to-3-40-ghz/specifications.html)  
 iGPU: Intel(R) Iris(R) Plus Graphics 640  
